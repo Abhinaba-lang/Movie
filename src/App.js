@@ -25,7 +25,7 @@ const App=()=>{
 
   return (
     <div className="app">
-       <h1>Movie-Land</h1>
+       <h1>Movie-Land-Shows</h1>
 
        <div className="search">
         <input 
